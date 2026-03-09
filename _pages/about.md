@@ -27,7 +27,7 @@ My research interests include <strong>Machine Learning, Deep Learning, and Large
 
 <p>You can learn more about me through my CV 
   (<a href="/assets/files/张屹焘_简历.pdf" target="_blank">中文简历</a>, 
-   <a href="/assets/files/Yitao Zhang_CV.pdf" target="_blank">English CV</a>).
+   <a href="assets/files/Yitao Zhang_CV.pdf" target="_blank">English CV</a>).
 </p>
 
 # 🔥 News
