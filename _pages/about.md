@@ -25,6 +25,10 @@ From 2017 to 2021, I completed my undergraduate studies in Financial Engineering
 
 My research interests include <strong>Machine Learning, Deep Learning, and Large Language Models</strong>. I have previously published two economics-related papers and will now focus on the adaptation, fine-tuning, and application of LLMs in <strong>Healthcare Management</strong>.
 
+<p>You can learn more about me through my CV 
+  (<a href="/assets/files/张屹焘_简历.pdf" target="_blank">中文简历</a>, 
+   <a href="/assets/files/Yitao Zhang_CV.pdf" target="_blank">English CV</a>).
+</p>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
