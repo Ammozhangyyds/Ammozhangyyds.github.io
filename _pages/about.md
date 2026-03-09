@@ -49,10 +49,7 @@ Longyue Liang(supervisor), Weiwei Yang, <strong>Yitao Zhang<sup>*</sup></strong>
 
 <hr>
 
-[The Governance Effectiveness of State-Owned
-Enterprises under the Guidance of "Two Unswerving Principles": A Quasi-Natural Experiment Based on
-the Three-Year Action Plan for SOE Reform (两个“一以贯之”引领下国企治理效能——基于国企改革三年行动
-准自然实验)](https://kns.cnki.net/kcms2/article/abstract?v=vxt3_kKBHYPb2NF1edqLJg7kb3zgCajFy5iUrPplMG2PFBLe0Z1wunuRu4_nCsX_v15BzHXRC8pKS0YcEm4YgsOJARsdZd5MUplsM9O7rPAO2ZroywZQQlU-AqX1BljrmzjpxL7tWsQjiMPrZT43rQl26hDhGHdJH2HMgnoxoaLzF0yE3aD7lA==&uniplatform=NZKPT&language=CHS)
+[The Governance Effectiveness of State-Owned Enterprises under the Guidance of "Two Unswerving Principles": A Quasi-Natural Experiment Based on the Three-Year Action Plan for SOE Reform (两个“一以贯之”引领下国企治理效能——基于国企改革三年行动准自然实验)](https://kns.cnki.net/kcms2/article/abstract?v=vxt3_kKBHYPb2NF1edqLJg7kb3zgCajFy5iUrPplMG2PFBLe0Z1wunuRu4_nCsX_v15BzHXRC8pKS0YcEm4YgsOJARsdZd5MUplsM9O7rPAO2ZroywZQQlU-AqX1BljrmzjpxL7tWsQjiMPrZT43rQl26hDhGHdJH2HMgnoxoaLzF0yE3aD7lA==&uniplatform=NZKPT&language=CHS)
 
 Modern Management Science (现代管理科学)
 
