@@ -31,7 +31,7 @@ My research interests include <strong>Machine Learning, Deep Learning, and Large
 </p>
 
 # 🔥 News
-- *Coming soon!*
+- *Always believe that something wonderful is about to happen!*
 
 # 📖 Educations
 - *2026.09 - unknown (incoming)*, Sun Yat-sen University (SYSU, Guangzhou), Management Science and Engineering.
