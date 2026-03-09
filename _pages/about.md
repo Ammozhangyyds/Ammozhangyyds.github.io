@@ -40,19 +40,24 @@ My research interests include <strong>Machine Learning, Deep Learning, and Large
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Firm-level perception of climate policy uncertainty and resilience: textual evidence from China’s A-share market](https://doi.org/10.1080/00036846.2025.2564466)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Applied Economics (SSCI Q2)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Longyue Liang(supervisor), Weiwei Yang, <strong>Yitao Zhang<sup>*</sup></strong>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- The first construction of a firm-level climate policy uncertainty perception index is achieved through textual analysis.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [The Governance Effectiveness of State-Owned
+Enterprises under the Guidance of "Two Unswerving Principles": A Quasi-Natural Experiment Based on
+the Three-Year Action Plan for SOE Reform (两个“一以贯之”引领下国企治理效能——基于国企改革三年行动
+准自然实验)](https://kns.cnki.net/kcms2/article/abstract?v=vxt3_kKBHYPb2NF1edqLJg7kb3zgCajFy5iUrPplMG2PFBLe0Z1wunuRu4_nCsX_v15BzHXRC8pKS0YcEm4YgsOJARsdZd5MUplsM9O7rPAO2ZroywZQQlU-AqX1BljrmzjpxL7tWsQjiMPrZT43rQl26hDhGHdJH2HMgnoxoaLzF0yE3aD7lA==&uniplatform=NZKPT&language=CHS)
+
+Modern Management Science (现代管理科学)
+
+Debin Xiong, Yulin Huang<sup>*</sup>, <strong>Yitao Zhang</strong>
+
+- First construction of the "One Profit, Five Ratios" performance indicators to examine the impact of the Three-Year Action Plan for State-Owned Enterprise Reform, which is underpinned by the reform logic of the "Two Unswerving Principles."
 
 # 🎖 Honors and Awards
 - *2025.09*  Outstanding Worker of the Youth League General Branch, School of Economics, Guizhou University, 2024-2025 Academic Year.
