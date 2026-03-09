@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+#  Welcome to my homepage!
+I am now an incoming PhD student in Management Science and Engineering at the School of Business, Sun Yat-sen University, starting in September 2026. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+From 2023 to 2026, I pursued a Master’s degree in Finance at Guizhou University (GZU, Guiyang) under the supervision of Associate Professor <a href="https://econ.gzu.edu.cn/2025/0310/c21486a246069/page.htm" target="_blank" rel="noopener noreferrer">Liang Longyue</a>. 
+From 2017 to 2021, I completed my undergraduate studies in Financial Engineering at Hubei University of Economics (HBUE, Wuhan).
+
+My research interests include <strong>Machine Learning, Deep Learning, and Large Language Models</strong>. I have previously published two economics-related papers and will now focus on the adaptation, fine-tuning, and application of LLMs in <strong>Healthcare Management</strong>.
 
 
 # 🔥 News
