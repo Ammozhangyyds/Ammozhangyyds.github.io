@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  Welcome to my homepage!
-I am now an incoming PhD student in Management Science and Engineering at the School of Business, Sun Yat-sen University, starting in September 2026. 
+I am now an incoming PhD student in Management Science and Engineering at the School of Business, Sun Yat-sen University (SYSU, Guangzhou) under the supervision of Professor <a href="https://bus.sysu.edu.cn/teacher/WuJi" target="_blank" rel="noopener noreferrer">Ji Wu</a>, starting in September 2026. 
 
-From 2023 to 2026, I pursued a Master’s degree in Finance at Guizhou University (GZU, Guiyang) under the supervision of Associate Professor <a href="https://econ.gzu.edu.cn/2025/0310/c21486a246069/page.htm" target="_blank" rel="noopener noreferrer">Liang Longyue</a>. 
+From 2023 to 2026, I pursued a Master’s degree in Finance at Guizhou University (GZU, Guiyang) under the supervision of Associate Professor <a href="https://econ.gzu.edu.cn/2025/0310/c21486a246069/page.htm" target="_blank" rel="noopener noreferrer">Longyue Liang</a>. 
 From 2017 to 2021, I completed my undergraduate studies in Financial Engineering at Hubei University of Economics (HBUE, Wuhan).
 
 My research interests include <strong>Machine Learning, Deep Learning, and Large Language Models</strong>. I have previously published two economics-related papers and will now focus on the adaptation, fine-tuning, and application of LLMs in <strong>Healthcare Management</strong>.
