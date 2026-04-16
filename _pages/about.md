@@ -32,7 +32,7 @@ My research interests include <strong>Machine Learning, Deep Learning, and Large
 
 # 🔥 News
 - *Always believe that something wonderful is about to happen!*
-- Awarded the title of Outstanding Graduate of Guizhou University (University-Level) in April 2026.04 (Public announcement period: 2026.04.15-2026.04.17).
+- Awarded the title of Outstanding Graduate of Guizhou University (University-Level) in 2026.04 (Public announcement period: 2026.04.15-2026.04.17).
 - Awarded the Graduate Academic Scholarship (Special Grade, 2024-2025 Academic Year) of Guizhou University in 2026.04 (Public announcement period: 2026.04.09-2026.04.15).
 
 # 📖 Educations
