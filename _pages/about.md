@@ -32,6 +32,8 @@ My research interests include <strong>Machine Learning, Deep Learning, and Large
 
 # 🔥 News
 - *Always believe that something wonderful is about to happen!*
+- Awarded the title of Outstanding Graduate of Guizhou University (University-Level) in April 2026.04 (Public announcement period: 2026.04.15-2026.04.17).
+- Awarded the Graduate Academic Scholarship (Special Grade, 2024-2025 Academic Year) of Guizhou University in 2026.04 (Public announcement period: 2026.04.09-2026.04.15).
 
 # 📖 Educations
 - *2026.09 - unknown (incoming)*, Sun Yat-sen University (SYSU, Guangzhou), Management Science and Engineering.
@@ -58,6 +60,8 @@ Debin Xiong, Yulin Huang<sup>*</sup>, <strong>Yitao Zhang</strong>
 - First construction of the "One Profit, Five Ratios" performance indicators to examine the impact of the Three-Year Action Plan for State-Owned Enterprise Reform, which is underpinned by the reform logic of the "Two Unswerving Principles."
 
 # 🎖 Honors and Awards
+- *2026.04*  Outstanding Graduate of Guizhou University (University-Level)
+- *2026.04*  Graduate Academic Scholarship (Special Grade), Guizhou University, 2024-2025 Academic Year.
 - *2025.09*  Outstanding Worker of the Youth League General Branch, School of Economics, Guizhou University, 2024-2025 Academic Year.
 - *2025.05*  Outstanding Communist Youth League Cadre of Guizhou University, 2024-2025 Academic Year.
 - *2025.03*  The 15th "CP Group Cup" National College Students Market Survey and Analysis Competition (First Prize in University Level).
