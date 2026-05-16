@@ -23,7 +23,7 @@ I am now an incoming PhD student in Management Science and Engineering at the Sc
 From 2023 to 2026, I pursued a Master’s degree in Finance at Guizhou University (GZU, Guiyang) under the supervision of Associate Professor <a href="https://econ.gzu.edu.cn/2025/0310/c21486a246069/page.htm" target="_blank" rel="noopener noreferrer">Longyue Liang</a>. 
 From 2017 to 2021, I completed my undergraduate studies in Financial Engineering at Hubei University of Economics (HBUE, Wuhan).
 
-My research interests include <strong>Machine Learning, Deep Learning, and Large Language Models</strong>. I have previously published two economics-related papers and will now focus on the adaptation, fine-tuning, and application of LLMs in <strong>Healthcare Management</strong>.
+My research interests include <strong>Machine Learning, Deep Learning, Large Language Models, and Causal Inference</strong>. I have previously published two economics-related papers and will now focus on the adaptation, fine-tuning, and applying deep learning with causal inference <strong>Healthcare Management</strong>.
 
 <p>You can learn more about me through my CV 
   (<a href="/assets/files/张屹焘_简历.pdf" target="_blank">中文简历</a>, 
